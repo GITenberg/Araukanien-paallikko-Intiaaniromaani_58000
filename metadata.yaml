@@ -1,5 +1,8 @@
 _repo: Araukanien-paallikko-Intiaaniromaani_58000
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aimard, Gustave
@@ -12,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
     - http://en.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58000#Araukanien-paallikko-Intiaaniromaani
 gutenberg_issued: '2018-10-02'
 gutenberg_type: Text
 identifiers:
